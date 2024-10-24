@@ -28,7 +28,7 @@ export default function Index() {
 
   return (
     <>
-      <div className="relative overflow-clip bg-white flex flex-col font-inter items-center justify-start mx-auto w-full">
+      <div className="relative overflow-clip bg-white flex flex-col font-inter items-center justify-start mx-auto w-screen">
         <div className="flex flex-col md:px-5 relative w-full">
           <div
             className="bg-cover bg-no-repeat flex flex-col h-[1440px] items-center justify-start mx-auto pb-[259px] w-full"
